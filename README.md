@@ -1,12 +1,19 @@
 ![Banner](./githubBanner.png)
 
 
-Hi there! I'm **Tanij Roy** — an aspiring **MERN Stack Developer** focused on building clean UIs and scalable backend services. I enjoy learning new technologies and working on real projects to grow as a developer.
+Hi there! I'm **Tanij Roy** — a **MERN Stack Developer** and **Frontend Enthusiast**, focused on building clean UIs and scalable backend services. I enjoy learning new technologies and working on real projects to grow as a developer.
 
 -  Building MERN projects  
 -  Learning advanced React & backend development  
 -  Ask me about MERN stack basics
 
+##  Current Goals  
+-  Building and expanding **SkillVerse** — an online learning platform  
+-  Creating and deploying **full-stack MERN applications** with clean UI/UX  
+-  Improving my understanding of **React patterns**, **Node.js**, and **Express.js**  
+-  Learning **backend concepts** such as authentication, REST APIs, and MongoDB optimization  
+-  Planning to contribute to **open-source projects** and collaborate with other developers  
+-  Exploring **deployment platforms** like Vercel, Netlify, and Firebase  
 
 ##  Technology Stack:
 
