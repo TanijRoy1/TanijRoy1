@@ -1,4 +1,13 @@
-## Hi there 👋
+![Banner](./githubBanner.png)
+
+
+##  About Me
+Hi there! I'm **Tanij Roy** — an aspiring **MERN Stack Developer** focused on building clean UIs and scalable backend services. I enjoy learning new technologies and working on real projects to grow as a developer.
+
+-  Building MERN projects  
+-  Learning advanced React & backend development  
+-  Ask me about MERN stack basics  
+
 
 <!--
 **TanijRoy1/TanijRoy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
