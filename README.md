@@ -18,25 +18,25 @@ Hi there! I'm **Tanij Roy** — a **MERN Stack Developer** and **Frontend Enthus
 ##  Technology Stack:
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/touhidcodes)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/TanijRoy1)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/touhidcodes)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/TanijRoy1)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/TanijRoy1)
 
 ### Database:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/touhidcodes)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/TanijRoy1)
 
 ### Deployment & Auth:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/TanijRoy1)
 
 ### Design Tools:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/touhidcodes)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/TanijRoy1)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,postmanr)](https://github.com/touhidcodes)
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,postmanr)](https://github.com/TanijRoy1)
 
 
 ## Github Statistics:
@@ -48,7 +48,8 @@ Hi there! I'm **Tanij Roy** — a **MERN Stack Developer** and **Frontend Enthus
 If you'd like to connect or collaborate, feel free to reach out through any of the platforms below:
 
 - **Email:** tanishroy480@gmail.com  
-- **Facebook:** [Click Here](https://web.facebook.com/tanij.roy)  
+- **Facebook:** [Click Here](https://web.facebook.com/tanij.roy)
+- **LinkedIn:** [Click Here](https://www.linkedin.com/in/tanijroy/)  
 
 I'm always open to discussing new ideas, opportunities, or projects. Let's connect!
 
