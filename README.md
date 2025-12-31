@@ -8,7 +8,11 @@ Hi there! I'm **Tanij Roy** — a **MERN Stack Developer** and **Frontend Enthus
 -  Ask me about MERN stack basics
 
 ##  Current Goals  
--  Building and expanding **SkillVerse** — an online learning platform  
+-  Currently developing LoanLink, a full-stack MERN-based loan management website where:
+   - Borrowers can apply for loans and track their applications
+   - Managers can add and manage loan products, and approve or reject loan applications
+   - Admins can approve or suspend borrowers and managers, and manage user roles
+   - An integrated payment system handles loan repayments securely
 -  Creating and deploying **full-stack MERN applications** with clean UI/UX  
 -  Improving my understanding of **React patterns**, **Node.js**, and **Express.js**  
 -  Learning **backend concepts** such as authentication, REST APIs, and MongoDB optimization  
