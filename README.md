@@ -1,64 +1,168 @@
 ![Banner](./githubBanner.png)
 
+<!-- <h1 align="center">Tanij Roy</h1> -->
+<h3 align="center">Full Stack Developer · JavaScript Ecosystem · AI-Integrated Systems</h3>
 
-Hi there! I'm **Tanij Roy** — a **MERN Stack Developer** and **Frontend Enthusiast**, focused on building clean UIs and scalable backend services. I enjoy learning new technologies and working on real projects to grow as a developer.
+<p align="center">
+  <a href="mailto:tanishroy480@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tanishroy480%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tanijroy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-tanijroy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://web.facebook.com/tanij.roy" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-tanij.roy-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
--  Building MERN projects  
--  Learning advanced React & backend development  
--  Ask me about MERN stack basics
+---
 
-##  Current Goals  
--  Currently developing **LoanLink**, a full-stack MERN-based loan management website where:
-   - Borrowers can apply for loans and track their applications
-   - Managers can add and manage loan products, and approve or reject loan applications
-   - Admins can approve or suspend borrowers and managers, and manage user roles
-   - An integrated payment system handles loan repayments securely
--  Creating and deploying **full-stack MERN applications** with clean UI/UX  
--  Improving my understanding of **React patterns**, **Node.js**, and **Express.js**  
--  Learning **backend concepts** such as authentication, REST APIs, and MongoDB optimization  
--  Planning to contribute to **open-source projects** and collaborate with other developers  
--  Exploring **deployment platforms** like Vercel, Netlify, and Firebase  
+## About
 
-##  Technology Stack:
+I build full-stack web applications with a focus on clean architecture, scalable APIs, and practical AI integration. My work spans React frontends, Node.js/Express backends, and multi-database systems using both MongoDB and PostgreSQL.
 
-### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/TanijRoy1)
+Currently targeting **Junior Full Stack Developer** and **Junior Software Engineer** roles where I can contribute to production-grade systems from day one.
 
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/TanijRoy1)
+---
 
-### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nodejs,express)](https://github.com/TanijRoy1)
+## What I'm Working On
 
-### Database:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/TanijRoy1)
+- Extending **LoanLink** with additional AI-driven analytics and report automation
+- Deepening expertise in **TypeScript** across both frontend and backend layers
+- Exploring **Next.js** for full-stack applications with server-side rendering
 
-### Deployment & Auth:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/TanijRoy1)
+---
 
-### Design Tools:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/TanijRoy1)
+## Featured Project
 
-### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,postmanr)](https://github.com/TanijRoy1)
+### LoanLink — Full-Stack Loan Management Platform
+
+A production-ready loan management platform with role-based access control, real-time status tracking, and an AI-powered reporting microservice.
+
+**Core Stack:** React · Node.js · Express.js · MongoDB · Firebase Authentication
+
+**What it does:**
+- Users browse available loans, submit applications online, and track approval status
+- Admins and managers review applications, approve or reject requests, and manage users
+- Role-based dashboards tailored to each user type
+
+**AI Microservice — Built from Scratch**
+
+The most technically complex part of the project is a dedicated AI microservice with its own architecture, data layer, and deployment.
+
+```
+React Frontend → Express/MongoDB API → AI Microservice → Gemini AI → PostgreSQL → PDF Output
+```
+
+| Layer | Technology |
+|---|---|
+| Language | TypeScript |
+| ORM | Prisma |
+| Database | PostgreSQL |
+| AI Model | Gemini API |
+| Output | PDF Report Generation |
+
+**Capabilities:**
+- Generates loan summaries, risk analysis, repayment projections, and recommendations
+- Stores structured reports in PostgreSQL with metadata synced to MongoDB
+- Produces downloadable PDF reports on demand
+- Includes error handling with retry mechanisms
+- Deployed independently on Render
+
+---
+
+## Technology Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,framermotion" alt="Frontend" />
+</p>
+
+> Also using: **ShadCN UI**
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+</p>
+
+> Also using: **Next.js API Routes · JWT Authentication · Firebase Authentication**
+
+**Database & ORM**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,firebase" alt="Database and ORM" />
+</p>
+
+**AI & APIs**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=googlecloud" alt="AI and APIs" />
+</p>
+
+> Google Gemini API integration for AI-generated reports and analysis
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,render" alt="Tools and Platforms" />
+</p>
+
+> Also using: **Trello · Chrome DevTools**
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TanijRoy1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Tanij Roy's GitHub Stats"
+    height="165"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanijRoy1&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=TanijRoy1&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## Contact
+
+| Channel | Details |
+|---|---|
+| Email | [tanishroy480@gmail.com](mailto:tanishroy480@gmail.com) |
+| LinkedIn | [linkedin.com/in/tanijroy](https://www.linkedin.com/in/tanijroy/) |
+| Facebook | [facebook.com/tanij.roy](https://web.facebook.com/tanij.roy) |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TanijRoy1&style=flat-square&color=6e40c9" alt="Profile Views" />
+</p>
 
 
-## Github Statistics:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanijroy1&show_icons=true&locale=en&layout=compact" alt="tanijroy1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanijroy1&show_icons=true&locale=en" alt="tanijroy1" /></p>
-
-## Contact:
-If you'd like to connect or collaborate, feel free to reach out through any of the platforms below:
-
-- **Email:** tanishroy480@gmail.com  
-- **Facebook:** [Click Here](https://web.facebook.com/tanij.roy)
-- **LinkedIn:** [Click Here](https://www.linkedin.com/in/tanijroy/)  
-
-I'm always open to discussing new ideas, opportunities, or projects. Let's connect!
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanijroy1&label=Profile%20views&color=0e75b6&style=flat" alt="tanijroy1" /> </p>
 
 
 <!--
